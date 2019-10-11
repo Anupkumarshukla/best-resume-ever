@@ -1,6 +1,6 @@
 /* #*/ export const PERSON = `
 name:
-  first: John
+  first: Anup
   middle:
   last: Doe
 about: Hi, my name is John Doe. I"m just about the most boring type of person you could
